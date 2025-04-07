@@ -12,7 +12,7 @@ In this paper, we extend DRAMA to DRAMA-ROLISP (Risk Object Localization and Int
 
 You can download the images from [DRAMA](https://usa.honda-ri.com/drama)
 
-You can also download the annotations from [Google Driver](https://drive.google.com/file/d/1ybwvgnPFRVwmEAJudWwnGQ8wLitzQ82O/view?usp=sharing)
+You can also download the annotations from [Google Driver](https://drive.google.com/file/d/1cP4UGZQL2OR3s_cZvFpNxw3ZtTlktqhG/view?usp=drive_link)
 
 ## BibTeX
 If you find our work useful in your research, please consider citing our paper:

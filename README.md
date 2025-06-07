@@ -18,10 +18,12 @@ You can also download the annotations from [Google Driver](https://drive.google.
 If you find our work useful in your research, please consider citing our paper:
 ```
 @article{ding2025hilm,
-  title={HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving},
-  author={Xinpeng, Ding and Jinahua, Han and Hang, Xu and Xu, Hang and Wei, Zhang and Xiaomeng, Li},
-  booktitle={International Journal of Computer Vision},
-  year={2025}
+  title={HiLM-D: Enhancing MLLMs with Multi-scale High-Resolution Details for Autonomous Driving},
+  author={Ding, Xinpeng and Han, Jianhua and Xu, Hang and Zhang, Wei and Li, Xiaomeng},
+  journal={International Journal of Computer Vision},
+  pages={1--17},
+  year={2025},
+  publisher={Springer}
 }
 
 @article{ding2023hilm,
